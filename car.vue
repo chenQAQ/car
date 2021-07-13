@@ -125,7 +125,7 @@
   width:160px;
   position: relative;
   background-size: 100% 100%;
-  margin:-0.5vw 0;
+  margin:-0.25vw 0;
 }
 #bg{
   width: 160px;
